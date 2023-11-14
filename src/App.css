@@ -1,0 +1,28 @@
+.display{
+    /* display: flex; */
+    /* flex-direction: column; */
+    position: relative;
+    width: 90px;
+    /* border: 1px solid black; */
+    margin-top: 1rem;
+    margin-left: 1rem;
+    padding: 10px;
+    /* gap: 5px; */
+    
+}
+.display-options{
+    display: flex;
+    flex-direction: column;
+}
+.option-a{
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    padding: 10px;
+}
+.option-b{
+    display: flex;
+    /* margin-top: 1rem; */
+    margin-left: 1rem;
+    padding: 10px;
+}
