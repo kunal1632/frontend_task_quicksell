@@ -1,0 +1,7 @@
+.ticket-column{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(168, 168, 168);
+    width: 25rem;
+    position: relative;
+}

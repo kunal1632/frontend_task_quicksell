@@ -1,3 +1,16 @@
 .ticket-todo{
     border: 2px solid black;
+    margin: 10px;
+    padding: 7px;
+    width: 20rem;
+    background-color: rgb(233, 233, 233);
 }
+
+h3{
+    background-color: rgb(201, 201, 201);
+    margin:0px;
+    padding: 5px;
+    text-align: center;
+}
+
+

@@ -1,5 +1,6 @@
 import React from 'react';
 import Todo from './todo';
+import "./todocolumn.css"
 
 const Todocolumn = ({ title, tickets }) => {
   return (
